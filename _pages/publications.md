@@ -13,7 +13,7 @@ Main Papers
 ---
 > MEA.Seddik, M.Achab, JHM.Goulart, M.Debbah, **"A Nested Matrix-Tensor Model for Noisy Multi-view Clustering"**. [[preprint](https://melaseddik.github.io/files/nested_neurips23_preprint.pdf)]
 
-> MEA.Seddik, JHM.Goulart, M.Guillaud, **"Hotelling Deflation on Large Symmetric Spiked Tensors"**. [[preprint](https://melaseddik.github.io/files/gretsi23_symdeflation.pdf)]
+> MEA.Seddik, JHM.Goulart, M.Guillaud, A.Decurninge, **"Hotelling Deflation on Large Symmetric Spiked Tensors"**. [[preprint](https://melaseddik.github.io/files/gretsi23_symdeflation.pdf)]
 
 > MEA.Seddik, M.Tiomoko, A.Decurninge, M. Panov, M.Guillaud, **"Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective"**, *UAI'2023 (oral)*. [[preprint](https://melaseddik.github.io/files/uai2023.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_uai2023.pdf)]
 
@@ -21,7 +21,7 @@ Main Papers
 
 2022
 ---
-> MEA.Seddik, M.Guillaud, A.Decurninge, **"On the Accuracy of Hotelling-Type Tensor Deflation: A Random Tensor Analysis"**. [[preprint](https://melaseddik.github.io/files/icassp2023.pdf)] [[arxiv](https://arxiv.org/abs/2211.09004)]
+> MEA.Seddik, M.Guillaud, A.Decurninge, JHM.Goulart, **"On the Accuracy of Hotelling-Type Tensor Deflation: A Random Tensor Analysis"**. [[preprint](https://melaseddik.github.io/files/camsap2023.pdf)]
 
 > MEA.Seddik, M.Guillaud, R.Couillet, **"Quand les tenseurs aléatoires rencontrent les matrices aléatoires"**, *Gretsi'2022*. [[paper](https://melaseddik.github.io/files/Gretsi_2022.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)] [[slides_fr](https://melaseddik.github.io/files/slides/slides_gretsi_2022_fr.pdf)] [[slides_en](https://melaseddik.github.io/files/slides/slides_gretsi_2022_en.pdf)]
 
