@@ -15,7 +15,7 @@ Main Papers
 
 > MEA.Seddik, JHM.Goulart, M.Guillaud, A.Decurninge, **"Hotelling Deflation on Large Symmetric Spiked Tensors"**. [[preprint](https://melaseddik.github.io/files/gretsi23_symdeflation.pdf)]
 
-> MEA.Seddik, M.Tiomoko, A.Decurninge, M. Panov, M.Guillaud, **"Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective"**, *UAI'2023 (oral)*. [[preprint](https://melaseddik.github.io/files/uai2023.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_uai2023.pdf)]
+> MEA.Seddik, M.Tiomoko, A.Decurninge, M. Panov, M.Guillaud, **"Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective"**, *UAI'2023 (oral)*. [[preprint](https://melaseddik.github.io/files/uai2023.pdf)] [[poster](https://melaseddik.github.io/files/posters/poster_uai2023.pdf)] [[slides](https://melaseddik.github.io/files/slides/slides_uai2023.pdf)]
 
 > MEA.Seddik, M.Mahfoud, M.Debbah, **"Optimizing Orthogonalized Tensor Deflation via Random Tensor Theory"**. [[arxiv](https://arxiv.org/abs/2302.05798)]
 
