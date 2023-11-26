@@ -12,6 +12,7 @@ Welcome to my academic webpage! I'm an AI lead researcher at the [Technology Inn
 
 **News**
 -
+- 23/11/23: [Talk]([https://melaseddik.github.io/talks/](https://melaseddik.github.io/talks/2023-11-23-seminar/)) on random matrix theory for linear generative models at [Khalifa University](https://www.ku.ac.ae/).
 - 08/05/23: [Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective](https://melaseddik.github.io/files/uai2023.pdf) got accepted for oral presentation at [UAI 2023 conference](https://www.auai.org/uai2023/).
 - 19/04/23: Talk about [spike recovery from random tensors](http://math.univ-lyon1.fr/~vignes/pmwiki/Docs/TJC/TJC-20230419-Seddik.pdf) at the [Tensor Journal Club](http://math.univ-lyon1.fr/homes-www/vignes/TJC/Now).
 - 28/03/23: [When Random Tensors meet Random Matrices](https://arxiv.org/abs/2112.12348) accepted at the [Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability/).
