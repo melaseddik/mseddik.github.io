@@ -9,6 +9,10 @@ Main Papers
 ---
 > MEA.Seddik, M.Guillaud, R.Couillet, **"When Random Tensors meet Random Matrices"**, *Annals of Applied Probability*. [[arxiv](https://arxiv.org/abs/2112.12348)] [[poster](https://melaseddik.github.io/files/posters/poster_cirm2022.pdf)] [[slides](https://melaseddik.github.io/files/slides/slides_random_tensors.pdf)]
 
+2024
+---
+> H.Lebeau, MEA.Seddik, JHM.Goulart, **"Performance Gaps in Multi-view Clustering under the Nested Matrix-Tensor Model"**, *ICLR'2024*. [[paper](https://melaseddik.github.io/files/iclr2024.pdf)]
+
 2023
 ---
 > MEA.Seddik, M.Achab, JHM.Goulart, M.Debbah, **"A Nested Matrix-Tensor Model for Noisy Multi-view Clustering"**. [[preprint](https://melaseddik.github.io/files/nested_neurips23_preprint.pdf)]
